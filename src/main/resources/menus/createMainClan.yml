@@ -1,0 +1,8 @@
+inv:
+  title: "Создать клан"
+  size: 29
+  items-for:
+    material: MAGENTA_STAINED_GLASS_PANE
+    items:
+      - 12
+      - 14
