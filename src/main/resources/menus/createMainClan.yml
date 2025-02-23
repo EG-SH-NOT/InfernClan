@@ -1,8 +1,47 @@
 inv:
   title: "Создать клан"
-  size: 29
+  size: 54
+  items:
+    create-clan:
+      material: lime_concrete
+      slot: 22
+      name: "Создать клан "
+      lore:
+        - " "
   items-for:
-    material: MAGENTA_STAINED_GLASS_PANE
-    items:
-      - 12
-      - 14
+    info:
+      name: "Инфо"
+      material: PAINTING
+      lore:
+        - "Создай кланы"
+        - "fdg"
+      slot: 4
+    dekor-1:
+      name: " "
+      material: MAGENTA_STAINED_GLASS_PANE
+      slot:
+        - 0
+        - 1
+        - 2
+        - 3
+        - 5
+        - 6
+        - 7
+        - 8
+        - 9
+        - 17
+        - 18
+        - 26
+        - 27
+        - 35
+        - 36
+        - 44
+        - 45
+        - 46
+        - 47
+        - 48
+        - 49
+        - 50
+        - 51
+        - 52
+        - 53

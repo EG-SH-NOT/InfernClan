@@ -1,0 +1,6 @@
+name: InfernClan
+version: '${project.version}'
+main: org.infernworld.infernclan.InfernClan
+api-version: '1.16'
+commands:
+  clan: {}
